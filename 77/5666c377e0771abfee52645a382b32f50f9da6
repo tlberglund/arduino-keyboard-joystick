@@ -1,0 +1,14 @@
+joystick.ino
+  h_1f5d0d6882e44b 1-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "775666c377e0771abfee52645a382b32f50f9da6",
+  "prompts": {},
+  "humans": {
+    "h_1f5d0d6882e44b": {
+      "author": "Tim Berglund <tlberglund@gmail.com>"
+    }
+  }
+}
